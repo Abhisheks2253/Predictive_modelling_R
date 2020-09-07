@@ -13,7 +13,7 @@ Motor fluctuations are OFF times, when medication namely levodopa (the "gold sta
 - There is no definitive cure for PD but a variety of medications provide dramatic relief from the symptoms
 - The objective of this study is to use supervised learning methods to predict the number of OFF periods for Parkinson’s Disease patients based on symptoms and level of impact of PD on their lifestyle. This will help determine the level of severity of PD in a particular patients
 
-### **Data Souce**
+### **Data Source**
 
 The data set used in this study is obtained from Michael J. Fox foundation website. Intel has teamed with the Michael J Fox Foundation to gather data from Parkinson’s patients, with the aim of using that data to better understand the disease
 
